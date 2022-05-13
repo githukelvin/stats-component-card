@@ -13,12 +13,12 @@ For me the challenge was on opacity for  the images i needed it to be  violet co
 
 ### screenshot
 
-[](./projec.png)
+[](projec.png)
 
 ### links
-  Solution url:  ()
+  Solution url:  (https://github.com/githukelvin/stats-component-card.git)
 
-  live Site URL: ()
+  live Site URL: (https://githukelvin.github.io/stats-component-card/)
 
   ### My process 
 
