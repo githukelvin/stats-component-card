@@ -1,3 +1,25 @@
+<img src="https://github.com/githukelvin/stats-component-card/blob/main/projec.png"></img>
+
+
+<h1 align="center">Stats component card </h1>
+
+<div align="center">
+  <h3>
+    <a href="https://catherineisonline.github.io/sunnyside-agency-landing-page-frontendmentor/" color="white">
+      Live
+    </a>
+    <span> | </span>
+    <a href="https://githukelvin.github.io/stats-component-card/">
+      Solution
+    </a>
+   <span> | </span>
+    <a href="https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/stats-preview-card-component-SyftilWI5">
+      Challenge
+    </a>
+  </h3>
+</div>
+
+
 # Frontend Mentor - Stats preview card component solution
 
 
