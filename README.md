@@ -5,11 +5,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://catherineisonline.github.io/sunnyside-agency-landing-page-frontendmentor/" color="white">
+    <a href="https://githukelvin.github.io/stats-component-card/" color="white">
       Live
     </a>
     <span> | </span>
-    <a href="https://githukelvin.github.io/stats-component-card/">
+    <a href="https://github.com/githukelvin/stats-component-card.git">
       Solution
     </a>
    <span> | </span>
