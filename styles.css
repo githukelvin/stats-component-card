@@ -8,7 +8,7 @@ font-family: 'Lexend Deca', sans-serif;
 }
 main{
 	width: 100%;
-	height: 100vh;
+	height: 98vh;
 	background-color: hsl(233, 47%, 7%);
 
 }
@@ -99,7 +99,7 @@ strong{
 		left: 0;
 		display: block;
 		width: 95%;
-		height: 110vh;
+		height: 800px;
 		top: 40px;
 		left: 3%;
 	}
